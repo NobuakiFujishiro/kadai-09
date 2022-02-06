@@ -1,0 +1,25 @@
+
+
+.field{
+    width: 400px;
+}
+
+h1{
+    margin-left: 15px;
+}
+
+body{
+    background-image: url("Kintore4.jpg");
+    background-size: cover;
+    color: black;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.title{
+    margin-left: 15px;
+}
+
+.sendButton{
+    margin-left: 265px;
+}
